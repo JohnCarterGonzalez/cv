@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="assets/banner-image.webp" alt="Eclectic Banner">
+  <img src="assets/craftsman.webp" alt="Eclectic Banner">
 </p>
 
 <br/>
 
-# CV - Eclectic Software Engineer, Full Stack Developer, and DevOps Engineer
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](
+# CV - Pragmatic Software Engineer, Full Stack Developer, and DevOps Engineer
 
 [![Made with Fresh](https://fresh.deno.dev/fresh-badge-dark.svg)](https://fresh.deno.dev)
 
