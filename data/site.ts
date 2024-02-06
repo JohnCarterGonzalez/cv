@@ -1,6 +1,6 @@
 export const site = {
-  title: "A Developer Blog, for the average joe",
-  description: "A blog built with Fresh",
+  title: "A Doxology",
+  description: "A ",
   // This should be a url to the static file you're using for your open graph image
   ogImage: "https://fresh-blog.littlesticks.dev/og-image.png",
   copyrightName: "Fresh Blog",
